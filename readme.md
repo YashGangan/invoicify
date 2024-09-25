@@ -15,7 +15,7 @@ Invoicify is a Node.js package that creates professional PDF invoices. It uses t
 
 ## Example
 
-![Template 1: Basic](https://github.com/YashGangan/invoicify/blob/master/example/invoice.png?raw=true)
+![Template 1: Basic](https://github.com/YashGangan/invoicify/blob/master/examples/invoice.png?raw=true)
 
 ## Installation
 
