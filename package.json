@@ -7,9 +7,22 @@
   },
   "author": "yashgangan",
   "license": "ISC",
+  "repository": "https://github.com/YashGangan/invoicify.git",
   "description": "An invoice generator tool to help you generate minimal and clean pdf invoices/reciepts.",
   "dependencies": {
     "pdf-lib": "^1.17.1",
     "qr-image": "^3.2.0"
-  }
+  },
+  "keywords": [
+    "invoicify",
+    "pdf",
+    "document",
+    "create",
+    "invoice generator",
+    "invoice",
+    "reciept",
+    "easy invoice",
+    "invoice template",
+    "javascript"
+  ]
 }
